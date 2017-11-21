@@ -748,7 +748,7 @@ img{
 	color: #ffffff;
 	padding: 5px 10px;
 	float: left;
-	margin-left: 1px;
+	margin-left: -85px;
 	-webkit-transition: all 300ms linear;
 	-moz-transition: all 300ms linear;
 	-o-transition: all 300ms linear;
@@ -757,7 +757,7 @@ img{
 
 .section_block.eduempl .items .item_outer.inv .item .date{
 	float: right;
-	margin-right: 1px;
+	margin-right: -78px;
 }
 
 .section_block.eduempl .items .item .bullet,
